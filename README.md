@@ -21,3 +21,5 @@ SILVER-FOX H1: OPEN SANS ITALIC EXTRA BOLD
 ![desktop](./SilverFit_Desktop_ScreenShot.png?raw=true "mobile-wire")
 
 ### MOCKUPS
+![desktop](./silver-fit-desk.png?raw=true "mobile-wire")
+![desktop](./silver-fit-mobile.png?raw=true "mobile-wire")
